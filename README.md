@@ -87,4 +87,4 @@ Deployment
 Running the Application
 
 To run the Streamlit application, click the below link:
-[https://employee-attrition.streamlit.app/](https://employee-attritiongit-anilsiyag.streamlit.app/)
+https://github.com/Anil00329/Employee-Attrition.git/
